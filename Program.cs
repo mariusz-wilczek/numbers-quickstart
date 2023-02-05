@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double r =  2.5;
+double PI = Math.PI;
+double A = PI * r * r;
+Console.WriteLine(A);

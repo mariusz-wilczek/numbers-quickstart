@@ -1,0 +1,15 @@
+C:\Users\Mariusz\Desktop\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.exe
+C:\Users\Mariusz\Desktop\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.deps.json
+C:\Users\Mariusz\Desktop\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\Mariusz\Desktop\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.dll
+C:\Users\Mariusz\Desktop\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.pdb
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.csproj.AssemblyReference.cache
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.dll
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\refint\NumbersInCSharp.dll
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.pdb
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Users\Mariusz\Desktop\numbers-quickstart\obj\Debug\net7.0\ref\NumbersInCSharp.dll
